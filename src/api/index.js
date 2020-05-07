@@ -7,7 +7,7 @@ export const fetchData = async () => {
     try {
         const { data: { confirmed, recovered, death, lastUpdate } } = await axios.get(url)
 
-        return confirmed, recovered, death, lastUpdate;
+        return {confirmed, recovered, death, lastUpdate};
     }
 
     catch (error) {
