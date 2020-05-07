@@ -4,7 +4,7 @@ class Chart extends Component {
     render() {
         return (
             <div>
-               <h1>It is me</h1> 
+            
             </div>
         );
     }
