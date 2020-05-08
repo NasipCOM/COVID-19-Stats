@@ -1,6 +1,6 @@
 import Cards from './Cards/Cards';
 import Chart from './Chart/Chart';
-import CountryPicker from './CountryPicker/CountyPicker';
+import CountryPicker from './CountryPicker/CountryPicker';
 
 
 
