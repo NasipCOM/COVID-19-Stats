@@ -1,13 +1,9 @@
-import React, { Component } from 'react';
+import React, { useState, useEffect, } from 'react';
 
-class Chart extends Component {
-    render() {
-        return (
-            <div>
-            
-            </div>
-        );
-    }
+const Chart = () => {
+    return (
+        <h1></h1>
+    )
 }
 
 export default Chart;
