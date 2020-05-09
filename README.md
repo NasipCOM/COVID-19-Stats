@@ -10,7 +10,7 @@
 - Nasip Salmakhunov
 
 ## 🔗 Usefull links
-- [Website]()
+- [Website](https://nasipcom.github.io/COVID-19-Stats/)
 
 ## Available Scripts
 
