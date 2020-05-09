@@ -1,10 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="./src/images/image.png" width="300" ></img>
+</p>
+
+<h1 align="center"><b>COVID-19 Stats</b></h3>
+
+<p>Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data. The data is fetched from the API and I'll create cards displaying the statistics as well as Charts. This project/application is created using the most modern JavaScript syntax. Along the way, you'll use Material UI, Charts.js, React Hooks, API data fetching, all of it in React JS!</p>
+
+## ⌨️ Collaborators
+- Nasip Salmakhunov
+
+## 🔗 Usefull links
+- [Website]()
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### ⚙️`yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -12,12 +24,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
+### 🔨 `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### 📦`yarn build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
